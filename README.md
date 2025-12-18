@@ -1,2 +1,2 @@
-# MiPrimerRepo
+# MiPrimerRepositorio
 Mi Primer Repositorio uwu
